@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Karol-Polak, newbie in programming world.
+- 👀 I’m interested in programming, new technologies, movies and much more...
+- 🌱 I’m currently learning python and all of the most popular libraries for python.
+- 📫 How to reach me:
+  - by Linkedin: shorturl.at/btPSX
+  - by mail: karol.polak.work@gmail.com
