@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Karol 👋
 
-<!--
-**Karol-Polak/Karol-Polak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer focused on AI/ML and backend engineering.
 
-Here are some ideas to get you started:
+I build practical AI-powered applications combining machine learning,
+RAG, vector search and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Python · FastAPI · PostgreSQL · Docker · scikit-learn  
+RAG · Sentence Transformers · pgvector · ChromaDB  
+Gemini API · OpenAI API · Git
+
+## Featured Projects
+
+### Intelligent Support Ticket Classifier
+End-to-end ML system for automatic ticket classification, priority prediction,
+sentiment analysis and semantic similarity search.
+
+**Stack:** Python, FastAPI, scikit-learn, Sentence Transformers, PostgreSQL, pgvector, Docker
+
+[View repository](...)
+
+### RAG Knowledge Assistant
+Document-based RAG assistant with custom chunking, semantic retrieval,
+source attribution and LLM-generated answers.
+
+**Stack:** Python, FastAPI, ChromaDB, Sentence Transformers, Gemini API
+
+[View repository](...)
+
+## Currently focused on
+
+- Building production-oriented AI applications
+- Retrieval-Augmented Generation
+- Machine Learning engineering
+- Python backend development
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/karolpolak1/
+Email: karol.polak.work@gmail.com
