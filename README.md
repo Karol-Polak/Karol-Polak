@@ -19,7 +19,7 @@ sentiment analysis and semantic similarity search.
 
 **Stack:** Python, FastAPI, scikit-learn, Sentence Transformers, PostgreSQL, pgvector, Docker
 
-[View repository](...)
+[View repository](https://github.com/Karol-Polak/Intelligent_Support_Ticket_Classifier)
 
 ### RAG Knowledge Assistant
 Document-based RAG assistant with custom chunking, semantic retrieval,
@@ -27,7 +27,7 @@ source attribution and LLM-generated answers.
 
 **Stack:** Python, FastAPI, ChromaDB, Sentence Transformers, Gemini API
 
-[View repository](...)
+[View repository](https://github.com/Karol-Polak/RAG_Knowledge_Assistant)
 
 ## Currently focused on
 
